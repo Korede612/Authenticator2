@@ -87,6 +87,10 @@ Handles user interactions and coordinates between UI and ViewModel.
 
 ## Installation
 
+To Install this package, import `https://github.com/Korede612/Authenticator2.git` in SPM
+
+### OR
+
 1. Add all source files (`AuthenticatorViewModel.swift`, `AuthConfig.swift`, `AuthenticatorController.swift`) to your Xcode project.
 2. Import the required modules:
 
